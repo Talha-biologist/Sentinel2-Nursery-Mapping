@@ -6,7 +6,7 @@
 
 > **Researcher:** Talha (BS Biological Sciences, UVAS)  
 > **Focus:** Remote Sensing | GIS | Ecological Modeling  
-> **Status:** Completed (Winter 2026 Application Portfolio)
+> **Status:** Completed 
 
 ## 📌 Project Overview
 Forest nurseries are critical for large-scale afforestation but are difficult to monitor manually over vast areas. This project utilizes **Sentinel-2 (Level-2A)** satellite imagery to automate the mapping and health monitoring of the **Pattoki Forest Nursery** (Punjab, Pakistan).
